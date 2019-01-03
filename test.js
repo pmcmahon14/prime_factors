@@ -22,7 +22,7 @@ function enterKey(event) {
 }
 
 function testNumber () {
-    console.log(prime.length); //length is 46
+    console.log(prime.length);
     num = document.getElementById('number').value;
     console.log(num);
     //console.log(num % 1 === 0);
